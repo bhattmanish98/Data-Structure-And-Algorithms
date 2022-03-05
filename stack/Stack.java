@@ -81,6 +81,8 @@ public class Stack {
                 case 5:
                     isMoreOperations = false;
                     break;
+                default:
+                    System.out.println("Invalid choice");
             }
         }
     }
